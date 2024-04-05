@@ -12,7 +12,10 @@ The goal to make a global impact in healthcare led me to pursue knowledge and pr
 
 🚀 My ultimate goal is leveraging innovation to drive positive change in healthcare delivery.
 
-##### Connect with me: 
+##### Connect with me:
+  <a href="https://www.linkedin.com/in/franciscochaves33/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+##### Languages and Tools:
 
 
 
