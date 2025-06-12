@@ -42,9 +42,6 @@ The goal to make a global impact in healthcare led me to pursue knowledge and pr
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface"height="40"/>
   </a>
-   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow"  height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
   </a>
